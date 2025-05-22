@@ -22,7 +22,7 @@ namespace Caretaker
             _client.Log += Log;
             _client.MessageReceived += MessageReceived;
 
-            var token = File.ReadAllText("./token.txt");
+            var token = File.ReadAllText("./discord_token.txt");
 
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();

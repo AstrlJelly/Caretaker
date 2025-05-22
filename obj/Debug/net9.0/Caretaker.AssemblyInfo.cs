@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Caretaker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b448f538e57d8a7cf0dd70a3c8c8ab3b2dbd31d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Caretaker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Caretaker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
